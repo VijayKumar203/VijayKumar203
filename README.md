@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Aspiring Software Developer | AI/ML Enthusiast | MERN Stack Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vijaykumar203&label=Profile%30views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=vijaykumar203&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
