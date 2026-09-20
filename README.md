@@ -68,6 +68,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vijaykumar203&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijaykumar203&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=vijaykumar203&theme=radical&no-frame=true&column=7&margin-w=18&margin-h=10" alt="Trophies" />
 </p>
 
 ---
